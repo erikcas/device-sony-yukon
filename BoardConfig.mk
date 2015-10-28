@@ -112,7 +112,6 @@ ifeq ($(HOST_OS),linux)
 endif
 
 BUILD_KERNEL := true
--include vendor/sony/kernel/KernelConfig.mk
 
 # SELinux
 include device/qcom/sepolicy/sepolicy.mk
