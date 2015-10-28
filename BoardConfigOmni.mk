@@ -12,6 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+BOARD_CUSTOM_BOOTIMG := true
+
 # TWRP
 BOARD_HAS_NO_SELECT_BUTTON := true
 
