@@ -172,10 +172,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libemoji
 
-# BoringSSL hacks
-PRODUCT_PACKAGES += \
-    libboringssl-compat
-
 # Simple PowerHAL
 PRODUCT_PACKAGES += \
     power.yukon
